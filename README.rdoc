@@ -34,7 +34,7 @@
 (more questions..)
 
 
-== Resolving Internal Issues (worries, fears, anger)
+== Disolving Internal Issues (worries, fears, anger)
 
 	Reference : {The Sedona Method}[http://www.amazon.com/The-Sedona-Method-Happiness-Well-Being/dp/0971933413/] 
 
@@ -47,6 +47,22 @@
 If you answer "no" to the first two questions, that's fine.  Simply begin from step one and repeat until you feel an ambivalence about the issue. 
 
 It's important to note that the question is "could *you* let go".  The question moves the power to the person pondering.  The power to release troublesome thoughts lies within the person; it's not the case that the thoughts are troubling the person.  
+
+== Getting to the Root of an Issue
+
+Reference : {The Five Why's}[http://en.wikipedia.org/wiki/5_Whys]
+	
+State a problem and then for each answer (five responses), ask "why?"
+
+	I didn't get any work done today. (problem)
+
+	Why? - I felt very tired and groggy. (first why)
+	Why? - I didn't receive enough sleep last night. (second why)
+	Why? - I was thinking about the fight I had with my wife. (third why)
+	Why? - We're not sure where we're going to live and I hate it when she's upset with me. (fourth why)
+	Why? - She's the one that I lean on most.  When she's mad at me, I feel alone. (a root cause)
+
+Explore solutions to the final response.  
 
 == Further Tips
 
