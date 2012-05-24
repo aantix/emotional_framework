@@ -56,13 +56,13 @@ Reference : {The Five Why's}[http://en.wikipedia.org/wiki/5_Whys]
 	
 State a problem and then for each answer (five responses), ask "why?"
 
-	I didn't get any work done today. (problem)
+I didn't get any work done today. (problem)
 
-	Why? - I felt very tired and groggy. (first why)
-	Why? - I didn't receive enough sleep last night. (second why)
-	Why? - I was thinking about the fight I had with my wife. (third why)
-	Why? - We're not sure where we're going to live and I hate it when she's upset with me. (fourth why)
-	Why? - She's the one that I lean on most.  When she's mad at me, I feel alone. (a root cause)
+Why? - I felt very tired and groggy. (first why)
+Why? - I didn't receive enough sleep last night. (second why)
+Why? - I was thinking about the fight I had with my wife. (third why)
+Why? - We're not sure where we're going to live and I hate it when she's upset with me. (fourth why)
+Why? - She's the one that I lean on most.  When she's mad at me, I feel alone. (a root cause)
 
 Explore solutions to the final response.  
 
